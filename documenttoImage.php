@@ -16,7 +16,7 @@ $im->clear();
 $im->destroy();
 }
 
-//image url should be like this
+//image url looks like this
 $image_url = $imagefolderPath/'.$record['id'].'.jpeg';
 
 ?>
